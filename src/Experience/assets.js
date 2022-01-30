@@ -5,7 +5,7 @@ export default [
         items:
         [
             { name: 'bakedTexture', source: '/assets/baked.jpg', type: 'texture' },
-            { name: 'roomModel', source: '/assets/roomModel.glb' },
+            { name: 'room', source: '/assets/room.glb' },
         ]
     }
 ]
